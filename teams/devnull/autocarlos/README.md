@@ -1,3 +1,3 @@
 # autocarlos
 
-autocarlos is a general chat bot that assist you with your daily life
+autocarlos is a general chat bot that assists you with your daily life
